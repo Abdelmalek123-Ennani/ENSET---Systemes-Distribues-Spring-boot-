@@ -30,8 +30,5 @@ public class CostumerServiceApplication {
 			   System.out.println(costumer.toString());
 		   });
 		};
-
-
 	}
-
 }
